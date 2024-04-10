@@ -33,7 +33,7 @@ coming soon git 실습을 위한 레포입니다.<br>
   <tr>
     <td align="center" width="120px">
      <a href="https://github.com/tejava7177" target="_blank">
-        <img src="https://github.com/Ogu1208.png" alt="심주흔" />
+        <img src="https://github.com/tejava7177.png" alt="심주흔" />
       </a>
     </td>
      <td align="center" width="120px">
