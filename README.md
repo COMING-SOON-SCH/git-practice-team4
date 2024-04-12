@@ -37,8 +37,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
      <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원1" />
+      <a href="https://github.com/Po0i037E" target="_blank">
+        <img src="https://github.com/Po0i037E.png" alt="김재우" />
       </a>
     </td>
     <td align="center" width="120px">
@@ -47,8 +47,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원3" />
+      <a href="https://github.com/22cool" target="_blank">
+        <img src="https://github.com/22cool.png" alt="이시원" />
       </a>
     </td>
      <td align="center" width="120px">
@@ -61,12 +61,13 @@ coming soon git 실습을 위한 레포입니다.<br>
   <tr>
     <td align="center">
       <a href="https://github.com/tejava7177" target="_blank">
-       심주흔입니다.
+       심주흔..
       </a>
     </td>
      <td align="center">
       <a href="https://github.com" target="_blank">
       🦕  
+        김재우
       </a>
     </td> 
      <td align="center">
@@ -74,8 +75,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       신유승입니다.
       </a>
        <td align="center">
-      <a href="https://github.com" target="_blank">
-        🦕
+      <a href="https://github.com/22cool" target="_blank">
+       이시원입니다.
       </a>
     </td>
      <td align="center">
