@@ -61,7 +61,7 @@ coming soon git 실습을 위한 레포입니다.<br>
   <tr>
     <td align="center">
       <a href="https://github.com/tejava7177" target="_blank">
-       심주흔입니다.
+       심주흔
       </a>
     </td>
      <td align="center">
